@@ -8,4 +8,4 @@ Descrição nova.
 
 # SSH
 
-Enviando pelo SSH.
+Enviando pelo SSH...
